@@ -1,0 +1,15 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    background-color: #19172e;
+    color: white;
+}
+
+
+textarea.form-control {
+
+    max-width: 500px;
+    min-height: 150px;
+    max-height: 300px;
+    /* resize: none; */
+}
